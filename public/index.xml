@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OmarKKK</title>
+    <link>http://example.org/</link>
+    <description>Recent content on OmarKKK</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 22:59:07 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gue udh ada tambahan belajar nich</title>
+      <link>http://example.org/2022/02/gue-udh-ada-tambahan-belajar-nich/</link>
+      <pubDate>Sun, 06 Feb 2022 22:59:07 +0700</pubDate>
+      
+      <guid>http://example.org/2022/02/gue-udh-ada-tambahan-belajar-nich/</guid>
+      <description>GIlaaakkK!! HUGO enak banget! 😆 Jadi gue udh belajar banyak hal di sekolahcoding.com dan petanicode.com thanks to mbahe rois gue, yang udh ngenalin gue ke SSG dan Hugo juga.
+Pokok e intinya banyak banget, gua ngerti sekarang front matter itu apaan, terus cara config&amp;quot; nya.. dan yang gua paling seneng itu gua udh bisa bikin archive di blog gue ini wkwkwk plus juga ada tags nya.. dan itu keren banget cuyy wkkwkw</description>
+    </item>
+    
+    <item>
+      <title>Postingan Pertama gue pake Hugo</title>
+      <link>http://example.org/2022/02/postingan-pertama-gue-pake-hugo/</link>
+      <pubDate>Sun, 06 Feb 2022 22:01:14 +0700</pubDate>
+      
+      <guid>http://example.org/2022/02/postingan-pertama-gue-pake-hugo/</guid>
+      <description>Baru tau SSG Oke malem ini gua nyobain SSG itu apa, dan kehebatannya gimana.. sekarang gua lagi nyoba&amp;quot; tema-tema mantep
+tema pertama gue Gue pertama kali kea pake tema&amp;quot; aneh gitu.. tp akhirnya gua jatoh hati sama papermod, sekarang lagi nyobain beberapa fitur&amp;quot; gitu..
+Lorem Ipsum andalan Pertama kali gua bikin posts/Hello-world.md isinya adalah sebuah lorem ipsum 250 kata, yup&amp;hellip; lumrah beet buat para developer&amp;quot; diluar sanaa
+Sekarang gua mau nyoba yang lain!</description>
+    </item>
+    
+    <item>
+      <title>Hello Dunia</title>
+      <link>http://example.org/2022/02/hello-dunia/</link>
+      <pubDate>Sun, 06 Feb 2022 21:57:02 +0700</pubDate>
+      
+      <guid>http://example.org/2022/02/hello-dunia/</guid>
+      <description>Sed risus est sagittis sollicitudin euismod sit amet, rhoncus nec nisl. Phasellus mollis enim quam, sed faucibus orci pulvinar ac. Nulla quis convallis dolor. Vivamus dapibus, nisi vel blandit semper, ligula quam tempus felis, eget mattis tellus lectus eu tellus. Maecenas quis neque quis lorem consectetur posuere. Suspendisse dapibus interdum lorem a vulputate. Morbi congue ligula est, at varius nisi finibus et. Donec sed eleifend odio, vel fermentum lectus. Morbi eget tortor eu quam venenatis commodo.</description>
+    </item>
+    
+    <item>
+      <title>Hello Wold</title>
+      <link>http://example.org/2022/02/hello-wold/</link>
+      <pubDate>Sun, 06 Feb 2022 21:55:27 +0700</pubDate>
+      
+      <guid>http://example.org/2022/02/hello-wold/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque lorem eget augue suscipit suscipit. Fusce dapibus eros dui, sed ultrices dui efficitur at. Suspendisse massa diam, posuere vel aliquet eget, rhoncus sed lacus. Fusce in dolor dignissim sem consequat pellentesque ut ac erat. Aliquam egestas enim id nisl tristique venenatis. Nunc imperdiet nibh nec sem suscipit blandit ut in ante. Suspendisse placerat dui erat, ut fringilla urna congue at. Pellentesque eleifend urna eu tincidunt convallis.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

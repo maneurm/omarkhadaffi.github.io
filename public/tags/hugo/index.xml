@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on OmarKKK</title>
+    <link>http://example.org/tags/hugo/</link>
+    <description>Recent content in hugo on OmarKKK</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 22:59:07 +0700</lastBuildDate><atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gue udh ada tambahan belajar nich</title>
+      <link>http://example.org/2022/02/gue-udh-ada-tambahan-belajar-nich/</link>
+      <pubDate>Sun, 06 Feb 2022 22:59:07 +0700</pubDate>
+      
+      <guid>http://example.org/2022/02/gue-udh-ada-tambahan-belajar-nich/</guid>
+      <description>GIlaaakkK!! HUGO enak banget! 😆 Jadi gue udh belajar banyak hal di sekolahcoding.com dan petanicode.com thanks to mbahe rois gue, yang udh ngenalin gue ke SSG dan Hugo juga.
+Pokok e intinya banyak banget, gua ngerti sekarang front matter itu apaan, terus cara config&amp;quot; nya.. dan yang gua paling seneng itu gua udh bisa bikin archive di blog gue ini wkwkwk plus juga ada tags nya.. dan itu keren banget cuyy wkkwkw</description>
+    </item>
+    
+  </channel>
+</rss>
