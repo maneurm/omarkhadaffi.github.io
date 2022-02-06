@@ -1,0 +1,148 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: OmarKKK
+theme : "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+enableEmoji : true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: OmarkKK
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: https://i.postimg.cc/J4QS9nXJ/android-chrome-192x192.png
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Maneurm"
+    icon: https://i.postimg.cc/J4QS9nXJ/android-chrome-192x192.png
+    iconHeight: 30
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Omar Khadaffi
+    subtitle: "ngoding seru, tapi gue santri"
+    imageUrl: "https://media-exp1.licdn.com/dms/image/C5603AQEWpJxbm_ByKQ/profile-displayphoto-shrink_800_800/0/1617638548918?e=1649894400&v=beta&t=MToDrKOg3N-FJH-3tDJbvDsjPuXbsaYys7lK04CKmxo"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: Omar Khadaffi
+    buttons:
+      - name: Blog
+        url: blog
+      - name : Archives
+        url : archives
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/khadaffiomar"
+    - name: twitter
+      url: "https://twitter.com/maneurm"
+    - name: instagram
+      url: "https://instagram.com/omrkdf"
+    - name: spotify
+      url: "https://open.spotify.com/user/omarmustafa87"
+    - name: steam
+      url: "https://open.spotify.com/user/omarmustafa87"
+    - name: email
+      url: mailto:khadaffiomar@gmail.com
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+permalinks:
+  blog: /:year/:month/:title/
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
